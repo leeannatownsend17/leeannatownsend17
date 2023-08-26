@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi there 👋 My name is LeeAnna Townsend. I go to school online through the University of Phoenix taking my BS in Cybersecurity.
 
+Groups: National Leadership & Success Society, WiCyS (Women in Cybersecurity), freecodecamp, Github Global Campus, tryhackme.
+
+- 🔭 I’m currently working on learning Python. Next, I believe I will learn Javascript.
+- 🌱 I’m currently learning new things all the time.  
+- 👯 I’m looking to collaborate on coding, jobs, learning new skills, or anything Cybersecurity related.
+- 🤔 I’m looking for help with cool projects to practice what I have learned or any advice on learning how to code.
+- 💬 If there is anything else you are curious about or I failed to mention just let me know. 
+- 📫 How to reach me: 	https://membercommunity.wicys.org/member/cybersavage or https://linkedin/in/leeanna-townsend/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I really am obsessed with Zebras!!!                    
 <!--
 **leeannatownsend17/leeannatownsend17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
